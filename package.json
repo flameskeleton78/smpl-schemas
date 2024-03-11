@@ -1,0 +1,24 @@
+{
+  "name": "smpl-schemas",
+  "version": "0.0.1",
+  "description": "Allows creation of JSON Schemas in a cleaner format",
+  "main": "index.js",
+  "author": "@flameskeleton78",
+  "repository": "https://github.com/flameskeleton78/smpl-schemas",
+  "license": "ISC",
+  "keywords": [
+    "generate",
+    "json",
+    "schema",
+    "lazy",
+    "simple",
+    "minimal",
+    "clean",
+    "format"
+  ],
+  "bin": {
+    "simple-json-schemas": "./bin.js"
+  },
+  "dependencies": {
+  }
+}
