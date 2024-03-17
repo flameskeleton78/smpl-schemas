@@ -1,6 +1,6 @@
 {
   "name": "smpl-schemas",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Allows creation of JSON Schemas in a cleaner format",
   "main": "index.js",
   "author": "@flameskeleton78",
@@ -21,6 +21,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
+    "simple-claculator": "^1.0.2",
+    "simple-loading-wave": "^0.0.2",
     "simple-react-btn": "^1.0.1",
     "simple-slider-photo": "^1.0.1",
     "simpleton-jwt": "^1.0.1",
